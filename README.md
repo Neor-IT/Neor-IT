@@ -17,9 +17,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" max-width="600" max-height="300"/>
 </div>
 
-### 🥇 Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=neor-it)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/neor/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
